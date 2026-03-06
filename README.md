@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-New **hybrid driver** for HeltecVME290 (ghosting eliminated, OTP LUT automatically adapts to temperature and is optimized for the specific panel).
+New **hybrid driver** for HeltecVME290 (ghosting eliminated, OTP LUT automatically adapts to temperature and optimized for the specific panel).
 
 ## Installation instructions for InkHUD (Meshtastic)
 
