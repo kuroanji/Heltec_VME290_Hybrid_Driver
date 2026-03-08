@@ -8,6 +8,10 @@ New **hybrid driver** for HeltecVME290 (ghosting eliminated, OTP LUT automatical
 
 See `HowTo.md`
 
+## Installation instructions for basic firmware (non InkHUD)
+
+See `gxepd2-e290-ghosting-fix/README.md`
+
 ## Overview
 
 ### Problem
